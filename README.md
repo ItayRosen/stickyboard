@@ -2,7 +2,7 @@
 An easy to use sticky notes board
 
 # How to use
-*Upload the following files to our server: board-background.png, pin.png, stickyboard.css, stickyboard.js
+*Upload stickyboard folder to your root folder
 
 *Include stickyboard.css & stickyboard.js in your document.
 
