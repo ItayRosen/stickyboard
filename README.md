@@ -1,6 +1,9 @@
 # stickyboard
 An easy to use sticky notes board
 
+# Demo
+https://cdn.rawgit.com/ItayRosen/stickyboard/d72ef247/example.html
+
 # How to use
 *Upload stickyboard folder to your root folder
 
