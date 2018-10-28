@@ -2,7 +2,7 @@
 An easy to use sticky notes board
 
 # Demo
-https://jsfiddle.net/24gx5m1t/
+https://jsfiddle.net/24gx5m1t/1
 
 # How to use
 *Upload stickyboard folder to your root folder
